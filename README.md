@@ -1,6 +1,7 @@
 # Title
 
-
+Bot for the product sales funnel in Instagram, leads the user through a chain of messages, fueling interest in buying the product, in case the person has reached the end of the chain of messages bot records it on a webinar or offers to buy the product.
+There is also a system of notifications, if the person stopped and did not continue the dialogue with the bot.
 
 ## Requirements
 - Python 3.10
